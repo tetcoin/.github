@@ -1,4 +1,4 @@
-## Hi there 👋
+## Tetcoin.org 👋
 ![Metrics](https://metrics.lecoq.io/tetcoin?template=terminal&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&config.timezone=America%2FNew_York)
 
 <!--
